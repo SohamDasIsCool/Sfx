@@ -1,7 +1,1 @@
-var sound;
-function preload(){
-  sound=loadSound("sound.mp3");
-}
-function play(){
-  sound.play();
-}
+window.location("https://www.youtube.com/watch?v=xvFZjo5PgG0");
